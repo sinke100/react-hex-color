@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sinke100/react-hex-color/static/css/main.b00b3f7b.css",
+    "main.js": "/sinke100/react-hex-color/static/js/main.7e53d95f.js",
+    "static/js/787.8fcce3a3.chunk.js": "/sinke100/react-hex-color/static/js/787.8fcce3a3.chunk.js",
+    "index.html": "/sinke100/react-hex-color/index.html",
+    "main.b00b3f7b.css.map": "/sinke100/react-hex-color/static/css/main.b00b3f7b.css.map",
+    "main.7e53d95f.js.map": "/sinke100/react-hex-color/static/js/main.7e53d95f.js.map",
+    "787.8fcce3a3.chunk.js.map": "/sinke100/react-hex-color/static/js/787.8fcce3a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b00b3f7b.css",
+    "static/js/main.7e53d95f.js"
+  ]
+}
